@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinelearningpy123.github.io/2nr-premium-guide/sitemap.xml
